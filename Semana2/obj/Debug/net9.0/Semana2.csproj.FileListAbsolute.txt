@@ -12,3 +12,4 @@ c:\Users\veliz\Documents\2425--ESTRUCTURA DE DATOS\Semana2\obj\Debug\net9.0\refi
 c:\Users\veliz\Documents\2425--ESTRUCTURA DE DATOS\Semana2\obj\Debug\net9.0\Semana2.pdb
 c:\Users\veliz\Documents\2425--ESTRUCTURA DE DATOS\Semana2\obj\Debug\net9.0\Semana2.genruntimeconfig.cache
 c:\Users\veliz\Documents\2425--ESTRUCTURA DE DATOS\Semana2\obj\Debug\net9.0\ref\Semana2.dll
+c:\Users\veliz\Documents\2425--ESTRUCTURA DE DATOS\Semana2\obj\Debug\net9.0\Semana2.sourcelink.json
