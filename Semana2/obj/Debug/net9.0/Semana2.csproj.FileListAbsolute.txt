@@ -13,3 +13,18 @@ c:\Users\veliz\Documents\2425--ESTRUCTURA DE DATOS\Semana2\obj\Debug\net9.0\Sema
 c:\Users\veliz\Documents\2425--ESTRUCTURA DE DATOS\Semana2\obj\Debug\net9.0\Semana2.genruntimeconfig.cache
 c:\Users\veliz\Documents\2425--ESTRUCTURA DE DATOS\Semana2\obj\Debug\net9.0\ref\Semana2.dll
 c:\Users\veliz\Documents\2425--ESTRUCTURA DE DATOS\Semana2\obj\Debug\net9.0\Semana2.sourcelink.json
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\semana2\bin\Debug\net9.0\Semana2.exe
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\semana2\bin\Debug\net9.0\Semana2.deps.json
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\semana2\bin\Debug\net9.0\Semana2.runtimeconfig.json
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\semana2\bin\Debug\net9.0\Semana2.dll
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\semana2\bin\Debug\net9.0\Semana2.pdb
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\semana2\obj\Debug\net9.0\Semana2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\semana2\obj\Debug\net9.0\Semana2.AssemblyInfoInputs.cache
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\semana2\obj\Debug\net9.0\Semana2.AssemblyInfo.cs
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\semana2\obj\Debug\net9.0\Semana2.csproj.CoreCompileInputs.cache
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\semana2\obj\Debug\net9.0\Semana2.sourcelink.json
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\semana2\obj\Debug\net9.0\Semana2.dll
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\semana2\obj\Debug\net9.0\refint\Semana2.dll
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\semana2\obj\Debug\net9.0\Semana2.pdb
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\semana2\obj\Debug\net9.0\Semana2.genruntimeconfig.cache
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\semana2\obj\Debug\net9.0\ref\Semana2.dll

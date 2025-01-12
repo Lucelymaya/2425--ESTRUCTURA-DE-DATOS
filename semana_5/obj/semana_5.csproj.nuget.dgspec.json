@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\veliz\\Desktop\\2425--ESTRUCTURA-DE-DATOS\\semana2\\Semana2.csproj": {}
+    "C:\\Users\\veliz\\Desktop\\2425--ESTRUCTURA-DE-DATOS\\semana_5\\semana_5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\veliz\\Desktop\\2425--ESTRUCTURA-DE-DATOS\\semana2\\Semana2.csproj": {
+    "C:\\Users\\veliz\\Desktop\\2425--ESTRUCTURA-DE-DATOS\\semana_5\\semana_5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\veliz\\Desktop\\2425--ESTRUCTURA-DE-DATOS\\semana2\\Semana2.csproj",
-        "projectName": "Semana2",
-        "projectPath": "C:\\Users\\veliz\\Desktop\\2425--ESTRUCTURA-DE-DATOS\\semana2\\Semana2.csproj",
+        "projectUniqueName": "C:\\Users\\veliz\\Desktop\\2425--ESTRUCTURA-DE-DATOS\\semana_5\\semana_5.csproj",
+        "projectName": "semana_5",
+        "projectPath": "C:\\Users\\veliz\\Desktop\\2425--ESTRUCTURA-DE-DATOS\\semana_5\\semana_5.csproj",
         "packagesPath": "C:\\Users\\veliz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\veliz\\Desktop\\2425--ESTRUCTURA-DE-DATOS\\semana2\\obj\\",
+        "outputPath": "C:\\Users\\veliz\\Desktop\\2425--ESTRUCTURA-DE-DATOS\\semana_5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\veliz\\AppData\\Roaming\\NuGet\\NuGet.Config"

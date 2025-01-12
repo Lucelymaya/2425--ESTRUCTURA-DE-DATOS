@@ -1,25 +1,49 @@
 ﻿using System;
- 
-namespace RegistroDeProductos
+
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
+        while (true)
         {
-            // Inicializar matriz de productos con capacidad para 3 elementos
-            Producto[] productos = new Producto[3];
- 
-            // Agregar productos a la matriz
-            productos[0] = new Producto(1, "papas", "kg", 1.20m, 1.10m, 0.90m);
-            productos[1] = new Producto(2, "yogur", "litro", 0.90m, 0.85m, 0.80m);
-            productos[2] = new Producto(3, "aceite", "litro", 1.00m, 0.95m, 0.90m);
- 
-            // Mostrar información de todos los productos
-            foreach (var producto in productos)
+            // Mostrar las opciones del menú
+            Console.WriteLine("\nSeleccione el ejercicio que desea ejecutar:");
+            Console.WriteLine("1. Saludo simple");
+            Console.WriteLine("2. Mostrar nombre N veces");
+            Console.WriteLine("3. Contar letras del nombre");
+            Console.WriteLine("4. Aplicar descuentos e IVA");
+            Console.WriteLine("5. Notas de asignaturas");
+            Console.WriteLine("6. Salir");
+            Console.Write("Opción: ");
+
+            // Leer la opción seleccionada
+            string opcion = Console.ReadLine();
+
+            // Verificar la opción seleccionada
+            switch (opcion)
             {
-                producto.MostrarInformacion();
-                Console.WriteLine();
+                case "1":
+                    Ejercicio1.Ejecutar();
+                    break;
+                case "2":
+                    Ejercicio2.Ejecutar();
+                    break;
+                case "3":
+                    Ejercicio3.Ejecutar();
+                    break;
+                case "4":
+                    Ejercicio4.Ejecutar();
+                    break;
+                case "5":
+                    Ejercicio5.Ejecutar();
+                    break;
+                case "6":
+                    Console.WriteLine("Saliendo...");
+                    return; // Termina el programa
+                default:
+                    Console.WriteLine("Opción inválida.");
+                    break;
             }
-        }
-    }
+        }
+    }
 }
