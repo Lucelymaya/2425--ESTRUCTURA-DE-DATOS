@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Semana2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("semana_10")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b9a1e141bd3974b971f4b9b4c9beebc69ce641a")]
-[assembly: System.Reflection.AssemblyProductAttribute("Semana2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Semana2")]
+[assembly: System.Reflection.AssemblyProductAttribute("semana_10")]
+[assembly: System.Reflection.AssemblyTitleAttribute("semana_10")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
