@@ -57,7 +57,7 @@ namespace TraductorBasico
         static void TraducirFrase()
         {
             Console.Write("Ingrese la frase: ");
-            string frase = Console.ReadLine();
+            string frase = Console.ReadLine() ?? string.Empty; // Asignar un valor predeterminado si es null
             if (string.IsNullOrEmpty(frase))
             {
                 Console.WriteLine("La frase no puede estar vacía.");
@@ -111,10 +111,10 @@ namespace TraductorBasico
         static void AgregarPalabra()
         {
             Console.Write("Ingrese la palabra en inglés: ");
-            string ingles = Console.ReadLine()?.ToLower();
+            string ingles = Console.ReadLine()?.ToLower() ?? string.Empty;
 
             Console.Write("Ingrese su traducción en español: ");
-            string espanol = Console.ReadLine()?.ToLower();
+            string espanol = Console.ReadLine()?.ToLower() ?? string.Empty;
 
             if (!string.IsNullOrWhiteSpace(ingles) && !string.IsNullOrWhiteSpace(espanol))
             {
