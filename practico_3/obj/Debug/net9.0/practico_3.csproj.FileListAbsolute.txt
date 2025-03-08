@@ -1,0 +1,15 @@
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\practico_3\bin\Debug\net9.0\practico_3.exe
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\practico_3\bin\Debug\net9.0\practico_3.deps.json
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\practico_3\bin\Debug\net9.0\practico_3.runtimeconfig.json
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\practico_3\bin\Debug\net9.0\practico_3.dll
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\practico_3\bin\Debug\net9.0\practico_3.pdb
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\practico_3\obj\Debug\net9.0\practico_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\practico_3\obj\Debug\net9.0\practico_3.AssemblyInfoInputs.cache
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\practico_3\obj\Debug\net9.0\practico_3.AssemblyInfo.cs
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\practico_3\obj\Debug\net9.0\practico_3.csproj.CoreCompileInputs.cache
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\practico_3\obj\Debug\net9.0\practico_3.sourcelink.json
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\practico_3\obj\Debug\net9.0\practico_3.dll
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\practico_3\obj\Debug\net9.0\refint\practico_3.dll
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\practico_3\obj\Debug\net9.0\practico_3.pdb
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\practico_3\obj\Debug\net9.0\practico_3.genruntimeconfig.cache
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\practico_3\obj\Debug\net9.0\ref\practico_3.dll
