@@ -44,7 +44,7 @@ public class ProgramaPrincipal
         // Información del autor y docente
         string autor = "Lilia Lucely Maya Enriquez";
         string docente = "Delfin Bernabe Ortega Tenezaca";
-        string fecha = DateTime.Now.ToString("dd/MM/yyyy"); // Fecha actual
+        string fecha = DateTime.Now.ToString("15/03/2025"); // Fecha actual
 
         // Mostrar información
         Console.WriteLine($"AUTOR: {autor}");
