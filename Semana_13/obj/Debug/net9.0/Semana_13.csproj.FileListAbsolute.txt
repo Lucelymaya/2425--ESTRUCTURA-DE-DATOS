@@ -1,0 +1,15 @@
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\Semana_13\bin\Debug\net9.0\Semana_13.exe
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\Semana_13\bin\Debug\net9.0\Semana_13.deps.json
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\Semana_13\bin\Debug\net9.0\Semana_13.runtimeconfig.json
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\Semana_13\bin\Debug\net9.0\Semana_13.dll
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\Semana_13\bin\Debug\net9.0\Semana_13.pdb
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\Semana_13\obj\Debug\net9.0\Semana_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\Semana_13\obj\Debug\net9.0\Semana_13.AssemblyInfoInputs.cache
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\Semana_13\obj\Debug\net9.0\Semana_13.AssemblyInfo.cs
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\Semana_13\obj\Debug\net9.0\Semana_13.csproj.CoreCompileInputs.cache
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\Semana_13\obj\Debug\net9.0\Semana_13.sourcelink.json
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\Semana_13\obj\Debug\net9.0\Semana_13.dll
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\Semana_13\obj\Debug\net9.0\refint\Semana_13.dll
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\Semana_13\obj\Debug\net9.0\Semana_13.pdb
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\Semana_13\obj\Debug\net9.0\Semana_13.genruntimeconfig.cache
+C:\Users\veliz\Desktop\2425--ESTRUCTURA-DE-DATOS\Semana_13\obj\Debug\net9.0\ref\Semana_13.dll
